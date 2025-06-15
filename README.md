@@ -60,9 +60,3 @@ int main() {
 
 ---
 
-That’s it.  
-Just **Ctrl+A**, **Ctrl+C**, **Ctrl+V** into your `README.md` and commit.  
-Done. Bunny drop. Mic drop. Now go code.
-
-🐇💥🖕  
-Let me know if you want the *GitHub Profile* one next.
